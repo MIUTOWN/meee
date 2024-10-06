@@ -1,0 +1,15 @@
+{
+  "name": "电视频道",
+  "type": "category",
+  "version": "1.0",
+  "items": [
+    {
+      "name": "东南卫视",
+      "type": "channel",
+      "logo": "",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8"
+    },
+    
+    // 继续添加其他频道信息
+  ]
+}
